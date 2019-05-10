@@ -15,5 +15,5 @@ Create a reporting tool that prints out reports (in plain text) based on the dat
    - To load the data using the command: `psql -d news -f newsdata.sql`
    - Use `psql -d news` to connect to database
 
-3. run the python program to print out the report:
+3. Run the python program to print out the report:
    `python query.py`
